@@ -1,4 +1,4 @@
-[Readme](readme)|[Lista](lista)
+[Readme](./)|[Lista](lista)
 # Lista de talentosos
 1. JuanGa
 2. Cami
